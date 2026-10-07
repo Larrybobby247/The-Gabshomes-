@@ -3,7 +3,7 @@ import room2 from '../assets/room2.jpg'
 import room3 from '../assets/room3.jpg'
 import parlor from '../assets/parlor.jpg'
 import dining from '../assets/dining.jpg'
-import toilet from '../assets/toilet.jpg'
+import toilet from '../assets/IMG-20261006-WA0106.jpg'
 
 // Central room data. Add availability by adding
 // blockedRanges ({from:'YYYY-MM-DD', to:'YYYY-MM-DD'}) or replacing it with a backend call.
